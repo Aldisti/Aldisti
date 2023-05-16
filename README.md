@@ -21,7 +21,7 @@
 		<tr>
 			<td>
 				<a href="https://github.com/Aldisti">
-					[<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Aldisti?cardType=level&theme=tokyonight" width="397" height="200">](https://badge42.vercel.app/api/v2/clhqh0h8h011808n01iu6fcsn/stats?cursusId=21&coalitionId=125)
+					<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Aldisti?cardType=level&theme=tokyonight" width="397" height="200">
 				</a> 
 			</td>
 			<td>
