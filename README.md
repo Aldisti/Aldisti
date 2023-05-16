@@ -22,8 +22,7 @@
 			<a href="https://github.com/Aldisti?tab=repositories">
 				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldisti&layout=compact&theme=tokyonight" width="380" height="200">
 			</a>
+			![Profile views counter](https://komarev.com/ghpvc/?username=Aldisti&&style=flat-square)
 		</tr>
 	</table>
 </div>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Aldisti&&style=flat-square)
