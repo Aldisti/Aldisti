@@ -6,9 +6,6 @@
 <div align="center">
 	<table>
 		<tr>
-			<b>My 42 stats</b></br>
-		</tr>
-		<tr>
 			<a href="https://github.com/Aldisti">
 				<img src="https://badge42.vercel.app/api/v2/clhqh0h8h011808n01iu6fcsn/stats?cursusId=21&coalitionId=125">
 			</a>
@@ -24,11 +21,9 @@
 			</a>
 		</tr>
 	</table>
-	<tabel>
-		<a href="https://github.com/Aldisti">
-			<img src="https://komarev.com/ghpvc/?username=Aldisti&&style=flat-square">
-		</a> 
-	</table>
+	<a href="https://github.com/Aldisti">
+		<img src="https://komarev.com/ghpvc/?username=Aldisti&&style=flat-square">
+	</a>
 </div>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Aldisti&&style=flat-square)
