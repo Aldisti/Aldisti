@@ -1,17 +1,36 @@
-# 💻 Skills:
+# Hi there 👋
+- 👋 Hi, I’m @Aldisti
+- 🖥 I’m currently student at 42Roma Luiss
+- ⌨️ I’m currently learning C, C++, Unix, Virtual machines
+- 📫 Reach me -> adi-stef@student.42roma.it
+<div align="center">
+	<table>
+		<tr>
+			<b>My 42 stats</b></br>
+		</tr>
+		<tr>
+			<a href="https://github.com/Aldisti">
+				<img src="https://badge42.vercel.app/api/v2/cl3fwxmuu002509l4a9fnzm1a/stats?cursusId=21&coalitionId=125">
+			</a>
+		</tr>
+	</table>
+	<table>
+		<tr>
+			<b>My GitHub stats</b>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://github.com/Aldisti">
+					<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Aldisti?cardType=level&theme=tokyonight" width="397" height="200">
+				</a> 
+			</td>
+			<td>
+				<a href="https://github.com/Aldisti?tab=repositories">
+					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldisti&layout=compact&theme=tokyonight" width="380" height="200">
+				</a>
+			</td>
+		</tr>
+	</table>
+</div>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Aldisti&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aldisti&theme=radical&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aldisti&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Aldisti&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile views counter](https://komarev.com/ghpvc/?username=Aldisti&&style=flat-square)
