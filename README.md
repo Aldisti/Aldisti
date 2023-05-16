@@ -26,7 +26,7 @@
 			</td>
 			<td>
 				<a href="https://github.com/Aldisti?tab=repositories">
-					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldisti&layout=compact&theme=tokyonight" width="380" height="200">
+					<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhqh0h8h011808n01iu6fcsn/stats?cursusId=21&coalitionId=125" alt="adi-stef's 42 stats" /></a>
 				</a>
 			</td>
 		</tr>
