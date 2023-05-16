@@ -24,6 +24,11 @@
 			</a>
 		</tr>
 	</table>
+	<tabel>
+		<a href="https://github.com/Aldisti">
+			<img src="https://komarev.com/ghpvc/?username=Aldisti&&style=flat-square" width="100" height="25">
+		</a> 
+	</table>
 </div>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Aldisti&&style=flat-square)
