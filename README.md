@@ -16,19 +16,14 @@
 	</table>
 	<table>
 		<tr>
-			<b>My GitHub stats</b>
-		</tr>
-		<tr>
 			<td>
 				<a href="https://github.com/Aldisti">
 					<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Aldisti?cardType=level&theme=tokyonight" width="397" height="200">
 				</a> 
 			</td>
-			<td>
 				<a href="https://github.com/Aldisti?tab=repositories">
-					<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhqh0h8h011808n01iu6fcsn/stats?cursusId=21&coalitionId=125" alt="adi-stef's 42 stats" /></a>
+					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aldisti&layout=compact&theme=tokyonight" width="380" height="200">
 				</a>
-			</td>
 		</tr>
 	</table>
 </div>
