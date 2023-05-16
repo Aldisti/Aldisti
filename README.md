@@ -23,4 +23,4 @@
 	</table>
 </div>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Aldisti&&style=flat-square)
+![Profile views counter](https://komarev.com/ghpvc/?username=Aldisti&clor=blueviolet&style=plastic)
