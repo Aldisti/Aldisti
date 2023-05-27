@@ -1,7 +1,7 @@
 # Hi there 👋
 - 👋 Hi, I’m @Aldisti
 - 🖥 I’m currently student at 42Roma Luiss
-- ⌨️ I’m currently learning C, C++, Unix, Virtual machines
+- ⌨️ I’m currently learning C, C++, Unix, Python
 - 📫 Reach me -> adi-stef@student.42roma.it
 <div align="center">
 	<table>
