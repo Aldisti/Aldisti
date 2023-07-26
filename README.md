@@ -1,7 +1,7 @@
 # Hi there 👋
 - 👋 Hi, I’m @Aldisti
-- 🖥 I’m currently student at 42Roma Luiss
-- ⌨️ I’m currently learning C, C++, Unix, Python
+- 🖥 I’m currently a student at 42Roma Luiss
+- ⌨️ I’m currently learning C, C++, Java and Unix
 - 📫 Reach me -> adi-stef@student.42roma.it
 <div align="center">
 	<table>
@@ -22,5 +22,3 @@
 		</tr>
 	</table>
 </div>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Aldisti&label=PROFILE_VIEWS&color=9f05ad&style=plastic)
