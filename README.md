@@ -1,8 +1,5 @@
-# Hi there 👋
-- 👋 Hi, I’m @Aldisti
-- 🖥 I’m currently a student at 42Roma Luiss
-- ⌨️ I’m currently learning C, C++, Java and Unix
-- 📫 Reach me -> adi-stef@student.42roma.it
+Hi, I'm aldisti, student at 42 Roma and Software Engineer in the spare time...
+<!--
 <div align="center">
 	<table>
 		<tr>
@@ -22,3 +19,4 @@
 		</tr>
 	</table>
 </div>
+-->
